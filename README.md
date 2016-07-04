@@ -1,6 +1,6 @@
 # UVA-Problems
 UVA problems solved by me.
-
+<hr>
 
 BIGMOD.cpp = <a href = "https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=310"> UVA Online Judge 374 - Big Mod  </a> <br>
 GENERATING_FAST.cpp = <a href = "https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1039">UVA Online Judge 10098 - Generating Fast </a> <br>
@@ -9,7 +9,7 @@ PARENTESES.cpp = <a href = "https://uva.onlinejudge.org/index.php?option=onlinej
 RAILS.cpp = <a href = "https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=455">UVA Online Judge 514 - Rails  </a> <br>
 SULTAN_SUCESSORS.cpp = <a href = "https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=103">UVA Online Judge 167 - The Sultan's Successors  </a> <br>
 PRIME_CUTS.cpp = <a href= "https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=347"> UVA Online Judge 406 - Prime Cuts </a> <br>
-<h4>Dynamic Programming</h4><br>
+<h4>Dynamic Programming</h4>
 Coin Change.cpp = <a href = "https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=615">UVA Online Judge 674 - Coin Change </a> <br>
 Jill.cpp = <a href = "https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=448"> UVA Online Judge 507 - Jill Rides Again</a> <br>
 Dividing Coins.cpp = <a href = "https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=503"> UVA Online Judge 503 - Dividing Coins</a> <br>
